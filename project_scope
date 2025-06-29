@@ -1,0 +1,8 @@
+1.Create Resourge Group
+2.Create Virtual Machines and HA Zones 1 and 2
+3.Modification Virtual Machines SKU
+4.Create and Attach new disk Standard HD 32GB
+5.Removing and Dettach disk Standard HD
+6.Deleting Virtual Machines
+7.Deleting all Resources (NSG, Virtual Network and DISK1) 
+8.Finished Project
